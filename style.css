@@ -19,6 +19,10 @@ header h2{
   margin: 0;
   font-size: 60px;
 }
+header a{
+  color: black;
+  text-decoration: none;
+}
 nav{
   margin-top: 4%;
   font-family: PixelFont;
@@ -47,4 +51,14 @@ nav{
 
 .nav-btn:hover{
   color: #AAAAAA;
+}
+
+#content{
+  font-size: 30px;
+  font-family: PixelFont;
+  text-align: center;
+}
+
+#hide{
+  background-image: url('./images/SelfPortraitB.png');
 }
