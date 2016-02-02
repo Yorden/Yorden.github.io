@@ -32,6 +32,14 @@ nav{
   margin-right: auto
 }
 
+#portrait:hover{
+  content:url('./images/SelfPortraitB.png');
+}
+
+.nav-spacer{
+  margin-left: .75%;
+  margin-right: .75%;
+}
 .nav-btn{
   color: black;
   text-decoration: none;
