@@ -5,9 +5,7 @@
 .img-link:hover{
    opacity: .5;
 }
-a:hover{
-   opacity: .5;
-}
+
 a:visited{
   color: black;
 }
@@ -67,6 +65,7 @@ nav{
 
 .nav-btn:hover{
   color: #AAAAAA;
+  opacity: .5;
 }
 
 .work-sec{
@@ -74,7 +73,9 @@ nav{
   width: 60%;
 }
 
-
+.word-btn:hover{
+  opacity: .5;
+}
 
 #content{
   font-size: 30px;
@@ -93,6 +94,7 @@ nav{
   margin: 0px;
   text-align: left;
 }
+
 
 #hide{
   background-image: url('./images/SelfPortraitB.png');
